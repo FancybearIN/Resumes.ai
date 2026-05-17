@@ -6,6 +6,12 @@ The workflow stays focused on the essentials:
 2. Paste a Markdown resume
 It does not auto-apply to jobs, fabricate achievements, or build a job-tracking dashboard.
 
+## Demo
+
+Watch the short walkthrough video:
+
+[Demo video](./assets/Video%20Project%201.mp4)
+
 ## What It Does
 - Extract a job description from the current page or paste one manually
 - Upload or paste a Markdown resume
