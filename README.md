@@ -10,7 +10,9 @@ It does not auto-apply to jobs, fabricate achievements, or build a job-tracking 
 
 Watch the short walkthrough video:
 
-[Demo video](./assets/Video%20Project%201.mp4)
+<video controls width="100%" src="./assets/Video%20Project%201.mp4">
+	Your browser does not support the video tag.
+</video>
 
 ## What It Does
 - Extract a job description from the current page or paste one manually
